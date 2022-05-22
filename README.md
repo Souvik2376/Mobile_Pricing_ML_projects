@@ -2,10 +2,11 @@
 
 A classification model to predict whether price range of mobile based on certain specifications
 
-Problem statement: Create a classification model to predict whether price range of
-mobile based on certain specifications
+#Problem statement: 
+Create a classification model to predict whether price range of mobile based on certain specifications
 
-Context: An entrepreneur has started his own mobile company. He wants to give
+#Context: 
+An entrepreneur has started his own mobile company. He wants to give
 tough fight to big companies like Apple, Samsung etc.
 He does not know how to estimate price of mobiles his company creates. In this
 competitive mobile phone market, one cannot simply assume things. To solve this
